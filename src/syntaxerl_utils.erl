@@ -32,7 +32,6 @@ incls_deps_opts(FileName) ->
         strong_validation,
 
         {warn_format, 1},
-        warn_export_vars,
         warn_shadow_vars,
         warn_obsolete_guard,
         warn_deprecated_function,
